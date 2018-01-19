@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/psylab16/psylab.svg?branch=master)](https://travis-ci.org/psylab16/psylab)
+[![Build Status](https://travis-ci.org/psylab16/psylab-dev.svg?branch=master)](https://travis-ci.org/psylab16/psylab-dev)
 
 # PsyLab - Psychophysics Lab
 
-Copyright (c) 2010-2012 Christopher A. Brown
+Copyright (c) 2010-2018 Christopher A. Brown
 
 ## About
 
